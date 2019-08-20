@@ -1,0 +1,6 @@
+C:\Users\jegatheeswaran\Documents\GitHub\SonarCSharpDemoAug19\SonarDemo\bin\Debug\SonarDemo.exe.config
+C:\Users\jegatheeswaran\Documents\GitHub\SonarCSharpDemoAug19\SonarDemo\bin\Debug\SonarDemo.exe
+C:\Users\jegatheeswaran\Documents\GitHub\SonarCSharpDemoAug19\SonarDemo\bin\Debug\SonarDemo.pdb
+C:\Users\jegatheeswaran\Documents\GitHub\SonarCSharpDemoAug19\SonarDemo\obj\Debug\SonarDemo.csprojResolveAssemblyReference.cache
+C:\Users\jegatheeswaran\Documents\GitHub\SonarCSharpDemoAug19\SonarDemo\obj\Debug\SonarDemo.exe
+C:\Users\jegatheeswaran\Documents\GitHub\SonarCSharpDemoAug19\SonarDemo\obj\Debug\SonarDemo.pdb
